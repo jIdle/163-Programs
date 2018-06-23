@@ -1,0 +1,10 @@
+pokecenter:Pokecenters are a place where trainers can bring their pokemon to heal and rest up. Pokemon are placed inside a pokeball which is put into a machine designed to heal the pokemon in the ball.
+tree:Trees are common occurences in any region, although the type of tree may vary. Often time trainers can shake or "headbutt" a tree to startle and capture a pokemon. Although less likely, trainers may also find hidden items inside of a tree.
+route:Generally what paths or roads are called in Pokemon (e.g. Route 32).
+pokemon:Pokemon are the animals/creatures that live on Earth in the world of Pokemon. The name is actually a contraction of "pocket monster".
+pokeball:A ball shaped device that can capture wild Pokemon by trapping them inside. Once a pokemon has been captured in a Pokeball, it is no longer considered wild.
+hm:A Hidden Machine, HM for short, is an item that, like a TM, is used to teach a Pokemon a move. HMs can be used an unlimited number of times and cannot be disposed of. Moves taught by HMs cannot normally be forgotten.
+tm:A Technical Machine, or TM for short, is an item that, like an HM, is used to teach a Pokémon a move. A TM is a machine used by Pokemon Trainers to teach a Pokémon a new move that it might not learn otherwise.
+trainer:A trainer is an individual who catches wild Pokemon and captures them to compete against other trainers.
+gym:A gym is a place where trainers can test their Pokemon's strength against the strongest.
+battle:A battle takes place when two trainers lock eyes, of if your character is spotted by any other trainers. In a Pokemon battle two trainers will have their Pokemon battle until one trainer is out of Pokemon.
